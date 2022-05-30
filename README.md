@@ -1,4 +1,7 @@
 Capturas de pantalla del funcionamiento de la Apk
+Integrantes: David Cacuango 
+             Diana Almeida
+             Rubén Maya
 ---------------------------------------
 ![WhatsApp Image 2022-05-29 at 10 07 47 PM (1)](https://user-images.githubusercontent.com/66538886/170910486-c6d04de0-8770-42af-8469-2aab0ab71f75.jpeg)
 ![WhatsApp Image 2022-05-29 at 10 07 46 PM (1)](https://user-images.githubusercontent.com/66538886/170910836-8d2b6a69-7302-478d-8fe2-f8fa3ec527ac.jpeg)
