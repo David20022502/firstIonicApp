@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { PhotoService } from '../services/photo.service';
+import { AlertController } from '@ionic/angular';
 
 @Component({
   selector: 'app-tab2',
@@ -7,6 +9,11 @@ import { Component } from '@angular/core';
 })
 export class Tab2Page {
 
-  constructor() {}
+  constructor(public photoService: PhotoService,public alertController: AlertController) { }
+
+  addPhotoToGallery() {
+    this.photoService.addNewToGallery();
+   
+  }
 
 }
